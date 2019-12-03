@@ -4,7 +4,7 @@ High is a Python program for downloading images using requests library.
 
 ## Download
 
-Download .exe -> [a link](https://github.com/shams-la/exe_setups/raw/master/HigPic_Image_Downloader.zip)
+Download -> [HighPic.exe](https://github.com/shams-la/exe_setups/raw/master/HigPic_Image_Downloader.zip)
 
 ## Prerequisites
 
